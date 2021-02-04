@@ -1,0 +1,13 @@
+{
+  "name": "ts-prune-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-prune"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ts-prune": "^0.8.8"
+  }
+}
